@@ -1,0 +1,18 @@
+-d
+C:\\Users\\hp\\OneDrive\\Documents\\NetBeansProjects\\LeaveManagement\\build\\classes
+-classpath
+"C:\\Users\\hp\\OneDrive\\Documents\\NetBeansProjects\\LeaveManagement\\build\\classes;C:\\Program Files\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0.jar;C:\\Program Files\\mysql-connector-j-8.2.0\\src"
+-sourcepath
+C:\\Users\\hp\\OneDrive\\Documents\\NetBeansProjects\\LeaveManagement\\build\\empty
+-target
+21
+-encoding
+UTF-8
+-g
+-processorpath
+"C:\\Program Files\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0.jar;C:\\Program Files\\mysql-connector-j-8.2.0\\src;C:\\Users\\hp\\OneDrive\\Documents\\NetBeansProjects\\LeaveManagement\\build\\empty"
+-s
+C:\\Users\\hp\\OneDrive\\Documents\\NetBeansProjects\\LeaveManagement\\build\\generated-sources\\ap-source-output
+-source
+21
+C:\\Users\\hp\\OneDrive\\Documents\\NetBeansProjects\\LeaveManagement\\src\\leavemanagement\\EmployeeLeave.java
